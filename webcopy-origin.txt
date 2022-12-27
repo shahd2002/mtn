@@ -1,0 +1,1808 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=greek
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Tajawal:200,300,400,500,700,800,900&subset=arabic
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVMexQ.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVMexQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVMexQ.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVMexQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVMexQ.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVMexQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVMexQ.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVMexQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVMexQ.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVMexQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4jaVc.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4jaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4jaVc.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4jaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4jaVc.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4jaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4jaVc.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4jaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVc.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1nzSBDg.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iura6YBj_oCad4k1nzSBDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l4qkHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5anHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l5anHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l5qjHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l5qjHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l7KmHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l8KiHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l8KiHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l_6gHrRpjA.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\s\tajawal\v9\Iurf6YBj_oCad4k1l_6gHrRpjA-1.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyANRPUoIDXc2E0NN2l_5Vc5LRWOFrjzT2I&callback=initMap
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\maps\api\js-1
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/5.9.4/firebase-app.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\firebasejs\5.9.4\firebase-app-1.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/5.9.4/firebase-messaging.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\firebasejs\5.9.4\firebase-messaging-1.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/5.9.4/firebase.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\firebasejs\5.9.4\firebase-1.js
+Content Type: text/javascript
+
+Uri: https://www.mtnsyr.com/Assets/css/jquery-confirm.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\css\jquery-confirm-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/assets/js/jquery.validate.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\assets\js\jquery.validate-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Assets/video/assets/js/jquery.easing-1.3.pack.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\video\assets\js\jquery.easing-1.3.pack-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Assets/video/assets/js/jquery.mobile.just-touch.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\video\assets\js\jquery.mobile.just-touch-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Assets/video/src/css/mightyslider.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\video\src\css\mightyslider-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Assets/video/src/js/mightyslider.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\video\src\js\mightyslider-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Assets/video/src/js/tweenlite.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Assets\video\src\js\tweenlite-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Content/font-awesome.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\font-awesome-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/images/Globe.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\Globe-1.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/jquery-ui.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\jquery-ui-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/prettyinput.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\prettyinput-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/prettyinputAR.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\prettyinputAR-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Site.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Site-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/SiteAR.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\SiteAR-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ckeditor/css/ckeditord2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ckeditor\css\ckeditord2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ctools/css/ctoolsd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ctools\css\ctoolsd2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_file/uc_filed2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_file\uc_filed2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_order/uc_orderd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_order\uc_orderd2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_product/uc_productd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_product\uc_productd2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/uc_stored2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\uc_stored2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/views/css/viewsd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\views\css\viewsd2ed-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/slider.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\slider-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/addition.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\addition-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/base.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\base-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/bootstrap.min.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/caro.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\caro-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/comment.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\comment-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/dark.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\dark-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/field.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\field-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/fwslider.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\fwslider-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/jquery.mmenu.all.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\jquery.mmenu.all-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/mainmenu.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\mainmenu-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/menu-major.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\menu-major-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/menus.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\menus-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/messages.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\messages-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/node.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\node-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/responsive-tabs.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\responsive-tabs-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/search.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\search-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/style.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\style-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/theme.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\theme-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/user.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\user-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Images/logo.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\logo-1.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Plugins/Styled-notifications-master/notifications.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\Styled-notifications-master\notifications-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Plugins/Styled-notifications-master/notifications.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\Styled-notifications-master\notifications-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/PushNotification/fingerprint2.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\PushNotification\fingerprint2-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/PushNotification/init.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\PushNotification\init-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/bootstrap-slider.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\bootstrap-slider-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery-confirm.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery-confirm-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery-ui.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery-ui-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery.dataTables.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery.dataTables.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery.slimscroll.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery.slimscroll.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/PalMap/palmap.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\PalMap\palmap-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/bootstrap.3.3.4.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\bootstrap.3.3.4.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/fwslider.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\fwslider-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery-scrolltofixed-min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery-scrolltofixed-min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery.dynamic-slider.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery.dynamic-slider.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery.mmenu.min.all.js?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery.mmenu.min.all-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/placeholders.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\placeholders.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/jquery-1.12.2.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\jquery-1.12.2.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/migrate.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\migrate-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick-theme.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick-theme-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick-1.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/tiny.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\tiny-1.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/user/GetRegister
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\user\GetRegister-1.html
+Content Type: text/html
+
+www.mtnsyr.com/Content/images/searchem.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\searchem.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/secure.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\secure.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/sms.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\sms.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Content/images/star.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\star.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/sticky.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\sticky.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/tailor_bg.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\tailor_bg.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/ul_bg.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\ul_bg.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/images/upgrade.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\upgrade.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Content/images/up_shift.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\images\up_shift.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Content/jquery-ui.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/prettyinput.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\prettyinput.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/prettyinputAR.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\prettyinputAR.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Site.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Site.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/SiteAR.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\SiteAR.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ckeditor/css/ckeditord2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ckeditor\css\ckeditord2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ctools/css/ctoolsd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ctools\css\ctoolsd2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ctools/images/status-active.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ctools\images\status-active.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_file/uc_filed2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_file\uc_filed2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_order/uc_orderd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_order\uc_orderd2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_product/uc_productd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_product\uc_productd2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/menu_customers.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\menu_customers.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/menu_orders.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\menu_orders.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/menu_products.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\menu_products.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/menu_reports.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\menu_reports.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/menu_store_settings.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\menu_store_settings.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/print.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\print.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/images/throbber.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\images\throbber.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/ubercart/uc_store/uc_stored2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\ubercart\uc_store\uc_stored2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/sites/all/modules/views/css/viewsd2ed.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\sites\all\modules\views\css\viewsd2ed.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/slider.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\slider.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/addition.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\addition.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/base.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\base.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/bootstrap.min.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/caro.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\caro.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/comment.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\comment.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/dark.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\dark.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/field.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\field.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/fwslider.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\fwslider.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/jquery.mmenu.all.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\jquery.mmenu.all.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/mainmenu.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\mainmenu.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/menu-major.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\menu-major.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/menus.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\menus.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/messages.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\messages.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/node.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\node.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/responsive-tabs.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\responsive-tabs.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/search.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\search.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/style.css?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\style.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/theme.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\theme.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Content/Website/user.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Content\Website\user.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/cookies-policy
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\cookies-policy.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/corporate-rbt-service
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\corporate-rbt-service.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/dealers-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\dealers-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/direct-debit
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\direct-debit.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/E-Payment
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\E-Payment.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/elotto
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\elotto.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/email-us-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\email-us-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/faq
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\faq.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/financial-reports-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\financial-reports-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/fleet-management-service
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fleet-management-service.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.eot?
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.mtnsyr.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://www.mtnsyr.com/group-itemized-bill
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\group-itemized-bill.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/health-and-lifestyle-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\health-and-lifestyle-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Home/Index
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Home\Index.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Images/Bulk-SMS.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\Bulk-SMS.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Images/Calculate-your-data.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\Calculate-your-data.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Images/CustomerServiceCenter2.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\CustomerServiceCenter2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Images/iStock_000025422965Medium600.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\iStock_000025422965Medium600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Images/logo.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\logo.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Images/PDF.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\PDF.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Images/rdctr_135006369840.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\rdctr_135006369840.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Images/Reserve-your-number.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Images\Reserve-your-number.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/integrated-online-service-from-mtn
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\integrated-online-service-from-mtn.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/international-calling-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\international-calling-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/internet-serrvice-via-leased-circuits
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\internet-serrvice-via-leased-circuits.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/investor-relations-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\investor-relations-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/line-reservation
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\line-reservation.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/messages-bundles
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\messages-bundles.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/messaging-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\messaging-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/minutes-bundles
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\minutes-bundles.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/mobile-application-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\mobile-application-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/mtn-brochure
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\mtn-brochure.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/news-services-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\news-services-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Noqati Program
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Noqati Program.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/offers-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\offers-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/other
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\other.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Page?formID=140
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Page.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Page?formID=151
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Page-1.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Partners
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Partners.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/payments-and-refill-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\payments-and-refill-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/assets/jquery-jvectormap-world-mill-AR.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\assets\jquery-jvectormap-world-mill-AR.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/jquery-jvectormap-2.0.4.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\jquery-jvectormap-2.0.4.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/jquery-jvectormap-2.0.4.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\jquery-jvectormap-2.0.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/lib/jquery-mousewheel.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\lib\jquery-mousewheel.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/abstract-canvas-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\abstract-canvas-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/abstract-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\abstract-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/abstract-shape-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\abstract-shape-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/color-scale.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\color-scale.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/data-series.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\data-series.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/jvectormap.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\jvectormap.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/legend.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\legend.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/map-object.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\map-object.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/map.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\map.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/marker.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\marker.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/numeric-scale.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\numeric-scale.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/ordinal-scale.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\ordinal-scale.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/proj.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\proj.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/region.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\region.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/simple-scale.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\simple-scale.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-canvas-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-canvas-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-circle-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-circle-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-group-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-group-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-image-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-image-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-path-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-path-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-shape-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-shape-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/svg-text-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\svg-text-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vector-canvas.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vector-canvas.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-canvas-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-canvas-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-circle-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-circle-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-group-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-group-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-image-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-image-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-path-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-path-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/jvectormap/src/vml-shape-element.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\jvectormap\src\vml-shape-element.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Plugins/Styled-notifications-master/notifications.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\Styled-notifications-master\notifications.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Plugins/Styled-notifications-master/notifications.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Plugins\Styled-notifications-master\notifications.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/postpaid-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\postpaid-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Postpaid-prices
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Postpaid-prices.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/prepaid-classic-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\prepaid-classic-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Prepaid-prices
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Prepaid-prices.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/press-releases-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\press-releases-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/privacy-policies
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\privacy-policies.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/PushNotification/fingerprint2.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\PushNotification\fingerprint2.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/PushNotification/init.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\PushNotification\init.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/ReserveNumber/NumbersList
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\ReserveNumber\NumbersList.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/ReserveNumber/PrepaidNumbersList
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\ReserveNumber\PrepaidNumbersList.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/roaming-services-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\roaming-services-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Scripts/bootstrap-slider.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\bootstrap-slider.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery-confirm.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery-confirm.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery-ui.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery.dataTables.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/jquery.slimscroll.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\jquery.slimscroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/PalMap/palmap.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\PalMap\palmap.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/test123.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\test123.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/bootstrap.3.3.4.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\bootstrap.3.3.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/fwslider.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\fwslider.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery-scrolltofixed-min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery-scrolltofixed-min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery.dynamic-slider.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery.dynamic-slider.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/jquery.mmenu.min.all.js?nzcolu
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\jquery.mmenu.min.all.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/placeholders.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\placeholders.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/ajax-loader.gif
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/fonts/slick.eot
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/fonts/slick.eot?
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/fonts/slick.svg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/fonts/slick.ttf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/fonts/slick.woff
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\fonts\slick.woff
+Content Type: font/x-woff
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/jquery-1.12.2.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\jquery-1.12.2.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/migrate.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\migrate.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick-theme.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick.css
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.mtnsyr.com/Scripts/Website/slick/slick.min.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Scripts/Website/tiny.js
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Scripts\Website\tiny.js
+Content Type: application/javascript
+
+Uri: https://www.mtnsyr.com/Service?formID=119
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Service-1.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Service?formID=128
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Service.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/show-my-numbers
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\show-my-numbers.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/07badce4-334f-4cee-bee8-dafd4347e519/20081231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\07badce4-334f-4cee-bee8-dafd4347e519\20081231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/0a270d6f-7976-4ca1-a537-4751567174ca/MTN Q4 2021.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\0a270d6f-7976-4ca1-a537-4751567174ca\MTN Q4 2021.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/0e5bb556-562a-45e2-983f-7e95208e4c83/MyMTNSY.apk
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\0e5bb556-562a-45e2-983f-7e95208e4c83\MyMTNSY.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/0ec0873b-1dde-4140-8245-3663e2a0b3b3/20150930EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\0ec0873b-1dde-4140-8245-3663e2a0b3b3\20150930EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/10d4683e-d7b6-4e71-9e71-c526c2f864d1/20130630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\10d4683e-d7b6-4e71-9e71-c526c2f864d1\20130630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/1267262d-4d83-4b8e-831e-c89e50e56892/20160630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\1267262d-4d83-4b8e-831e-c89e50e56892\20160630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/19c94e93-5b5c-4fbe-aed9-b68178a29594/20160331EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\19c94e93-5b5c-4fbe-aed9-b68178a29594\20160331EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/1b192dc4-7f52-4755-b3b8-945ad5522572/20080630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\1b192dc4-7f52-4755-b3b8-945ad5522572\20080630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/1d67de6a-3d19-4b93-b822-830cdf3972de/20120331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\1d67de6a-3d19-4b93-b822-830cdf3972de\20120331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/1fbb2010-0323-413e-a7fc-1dd74b34049e/20071231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\1fbb2010-0323-413e-a7fc-1dd74b34049e\20071231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/25d29b64-6dc8-4f2c-8359-e154489c2dea/20070331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\25d29b64-6dc8-4f2c-8359-e154489c2dea\20070331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/264ef462-08bf-44f9-b845-2ec50940aa2b/20160630EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\264ef462-08bf-44f9-b845-2ec50940aa2b\20160630EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/2ada2272-f625-4cda-9757-11435507c46f/20141231EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\2ada2272-f625-4cda-9757-11435507c46f\20141231EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/2f914bce-a714-4aed-8936-b0cd3de1e555/20151231EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\2f914bce-a714-4aed-8936-b0cd3de1e555\20151231EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/314f1b1b-75db-48e6-9159-4167f12d8f39/MTN - FS Q1 2020 (Ar) - Final With Signed Opinion Statements.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\314f1b1b-75db-48e6-9159-4167f12d8f39\MTN - FS Q1 2020 (Ar) - Final With Signed Opinion Statements.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/34b80c15-81f3-4fdc-af49-36d99d6bd416/MTN - FS Q1 2018 (Ar).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\34b80c15-81f3-4fdc-af49-36d99d6bd416\MTN - FS Q1 2018 (Ar).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/37676e31-ec5b-4739-b957-5d7123d0eee3/20100930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\37676e31-ec5b-4739-b957-5d7123d0eee3\20100930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/4532d697-0c7a-473e-8672-779057f6077d/2013331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\4532d697-0c7a-473e-8672-779057f6077d\2013331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/4c8cccf2-df59-47b1-a46f-588414e6a212/Financial statements 30-06-2019 - Arabic.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\4c8cccf2-df59-47b1-a46f-588414e6a212\Financial statements 30-06-2019 - Arabic.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/55699c7c-8402-4eb0-bd7d-95f87ff4df37/20170331EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\55699c7c-8402-4eb0-bd7d-95f87ff4df37\20170331EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/57fea890-8610-45bf-87d4-c582c84308ca/20160930EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\57fea890-8610-45bf-87d4-c582c84308ca\20160930EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/5dce263b-e504-4edb-8c5d-9a8d874e5205/20140630EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\5dce263b-e504-4edb-8c5d-9a8d874e5205\20140630EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/61f87a05-594f-46b5-87f6-a88b4afcdb1b/MTN - FS Q2 2020 (Ar) - Final With Signed Opinion Statements.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\61f87a05-594f-46b5-87f6-a88b4afcdb1b\MTN - FS Q2 2020 (Ar) - Final With Signed Opinion Statements.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/690ce594-6e13-4fcb-a733-c87438bef612/MTN Q3.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\690ce594-6e13-4fcb-a733-c87438bef612\MTN Q3.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/69465422-12f3-4563-9ecc-df95b2c1eb4b/20140930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\69465422-12f3-4563-9ecc-df95b2c1eb4b\20140930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/703728fb-cd7b-4484-85e6-2e57be839537/20110331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\703728fb-cd7b-4484-85e6-2e57be839537\20110331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/70cfe316-a402-487c-afb8-cfd504358276/MTN - FS Q2 2018 (En).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\70cfe316-a402-487c-afb8-cfd504358276\MTN - FS Q2 2018 (En).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/70f3c8f5-9efc-47b7-88fd-dc3f7625b2e1/20161231.PDF
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\70f3c8f5-9efc-47b7-88fd-dc3f7625b2e1\20161231.PDF
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/72bb9d85-7bef-4b08-bccb-cfbec8a70f38/20150630EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\72bb9d85-7bef-4b08-bccb-cfbec8a70f38\20150630EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/736e4555-4420-4c76-ba84-6bf6ddb70eb1/20120630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\736e4555-4420-4c76-ba84-6bf6ddb70eb1\20120630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/741a13c3-a969-4573-9cf2-a339215cad6d/MTNSY_609_BUI_05.mp4
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\741a13c3-a969-4573-9cf2-a339215cad6d\MTNSY_609_BUI_05.mp4
+Content Type: video/mp4
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/7434c824-b14a-422f-86dc-31e6bc4bb215/20150930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\7434c824-b14a-422f-86dc-31e6bc4bb215\20150930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/7762053e-7a60-4707-a038-b2ccf9543202/20130930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\7762053e-7a60-4707-a038-b2ccf9543202\20130930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/792fcd06-6349-4cd9-b17e-e0154894b2bd/20121231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\792fcd06-6349-4cd9-b17e-e0154894b2bd\20121231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/7b4005f8-4c36-42f6-8a6e-23982d6e974b/20080331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\7b4005f8-4c36-42f6-8a6e-23982d6e974b\20080331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/7dad6d8e-bd68-41bd-97ea-3faba01d8ecc/20090630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\7dad6d8e-bd68-41bd-97ea-3faba01d8ecc\20090630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/8e06af43-54ba-4cad-8b28-4a57605523b9/20110930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\8e06af43-54ba-4cad-8b28-4a57605523b9\20110930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/8ed34d4e-7527-4912-b3d0-49992520ea01/20140331EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\8ed34d4e-7527-4912-b3d0-49992520ea01\20140331EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/91f803e8-abb7-4de9-88ce-98512151ac15/20131231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\91f803e8-abb7-4de9-88ce-98512151ac15\20131231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9236991b-f6f5-446d-ac6f-daa3e179663e/20100331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9236991b-f6f5-446d-ac6f-daa3e179663e\20100331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/92f47150-682f-4aaa-9723-3b35d1163124/20150331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\92f47150-682f-4aaa-9723-3b35d1163124\20150331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/939ee11d-020c-4cf8-ac80-e72959f6610b/MTN - YE 2020 - FS (Ar) - Final - Printable.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\939ee11d-020c-4cf8-ac80-e72959f6610b\MTN - YE 2020 - FS (Ar) - Final - Printable.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/943250ff-b31b-470d-976c-8ad554a4faf7/20070930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\943250ff-b31b-470d-976c-8ad554a4faf7\20070930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9537d767-1823-49af-940b-251a2c5de6ab/20091231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9537d767-1823-49af-940b-251a2c5de6ab\20091231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9677a344-6d87-4768-bd43-b57e89aa587d/20100630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9677a344-6d87-4768-bd43-b57e89aa587d\20100630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9d681e5d-0d70-450d-8d34-a74bcb6d61b6/20070630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9d681e5d-0d70-450d-8d34-a74bcb6d61b6\20070630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9f396027-ee7a-4398-956b-8a7b723fc92f/MTN Syria - YE 2018 - (Ar).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9f396027-ee7a-4398-956b-8a7b723fc92f\MTN Syria - YE 2018 - (Ar).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/9f5689bc-8d9f-47d2-aad1-7724b6abd295/20161231EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\9f5689bc-8d9f-47d2-aad1-7724b6abd295\20161231EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/a26c081d-ea0d-4c7a-bac5-dea19b41c0b6/MTN - FS Q2 2018 (Ar).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\a26c081d-ea0d-4c7a-bac5-dea19b41c0b6\MTN - FS Q2 2018 (Ar).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/ae8036ae-c026-4dd3-b730-997d2e9beb7f/MTN - Q2 2019 - FS (En).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\ae8036ae-c026-4dd3-b730-997d2e9beb7f\MTN - Q2 2019 - FS (En).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/aea0a6da-9513-49d9-ab85-3beeac5b154c/MTN Q3 2021.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\aea0a6da-9513-49d9-ab85-3beeac5b154c\MTN Q3 2021.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/b3bcff08-637f-4c5b-af38-7bf67cac1223/20111231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\b3bcff08-637f-4c5b-af38-7bf67cac1223\20111231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/b57a08ce-61c0-43fc-8d78-e858196b0f08/MTN - FS Q3 2018 (Ar).pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\b57a08ce-61c0-43fc-8d78-e858196b0f08\MTN - FS Q3 2018 (Ar).pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/bae77c91-55c1-4d62-b76a-c683d03ab6f7/20160331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\bae77c91-55c1-4d62-b76a-c683d03ab6f7\20160331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/bb7d8d96-1ecd-4704-a3f0-96640b0dd2ee/20140930EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\bb7d8d96-1ecd-4704-a3f0-96640b0dd2ee\20140930EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/bc95cfd4-ce10-457a-a126-b05c6ebc812f/MTN - Q3 2022.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\bc95cfd4-ce10-457a-a126-b05c6ebc812f\MTN - Q3 2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/bfd21160-508a-480f-899d-607d9c4c05f8/20141231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\bfd21160-508a-480f-899d-607d9c4c05f8\20141231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c2f5ea53-93da-4285-a478-2bcea388f278/20101231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c2f5ea53-93da-4285-a478-2bcea388f278\20101231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c3f4482c-eb55-48fe-ae57-eb253603e90f/20140331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c3f4482c-eb55-48fe-ae57-eb253603e90f\20140331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c43f8b79-5796-456a-b2d8-14041763bc82/20090930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c43f8b79-5796-456a-b2d8-14041763bc82\20090930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c689577b-3eb8-49bb-a8bb-6d02bd8e388c/20151231.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c689577b-3eb8-49bb-a8bb-6d02bd8e388c\20151231.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c6c6f940-942d-4038-9b80-da1ddb38bfb7/20120930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c6c6f940-942d-4038-9b80-da1ddb38bfb7\20120930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/c8b34855-f3e6-47bc-b2aa-c4ee2c4deda6/MTNTV-3.0.3[Match Result].apk
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\c8b34855-f3e6-47bc-b2aa-c4ee2c4deda6\MTNTV-3.0.3[Match Result].apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/cb425b46-ffff-4caf-93eb-68ca3d0ae8b3/20110630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\cb425b46-ffff-4caf-93eb-68ca3d0ae8b3\20110630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/cbbeb820-4176-4c35-a453-9de7e9d5a390/20140630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\cbbeb820-4176-4c35-a453-9de7e9d5a390\20140630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/cd9111ac-4d0d-49d0-978f-caeb2192329b/20170630AR.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\cd9111ac-4d0d-49d0-978f-caeb2192329b\20170630AR.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/ce78f848-c434-4fc1-9dd6-885122d18d7c/MTN Q2 2021.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\ce78f848-c434-4fc1-9dd6-885122d18d7c\MTN Q2 2021.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/d23b3624-d40f-4aaf-bf8d-a8ca9dc5fcf9/20150331EN.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\d23b3624-d40f-4aaf-bf8d-a8ca9dc5fcf9\20150331EN.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/d42d33ec-af39-46b5-ad7b-2ba4f430c8c5/Q4 2019.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\d42d33ec-af39-46b5-ad7b-2ba4f430c8c5\Q4 2019.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/d7ec135f-4d92-4155-9249-94a57623785a/20170331AR.PDF
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\d7ec135f-4d92-4155-9249-94a57623785a\20170331AR.PDF
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/dbb5e14f-0e2a-47ea-8a6e-dc2f08f50a9d/MTN_Q1_AR.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\dbb5e14f-0e2a-47ea-8a6e-dc2f08f50a9d\MTN_Q1_AR.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/e5905cb7-2be3-42e1-b62f-be48d41377e7/20090331.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\e5905cb7-2be3-42e1-b62f-be48d41377e7\20090331.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/e7110b2b-802f-499f-8814-fb923faf64b5/20150630.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\e7110b2b-802f-499f-8814-fb923faf64b5\20150630.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/e88516d4-d132-42b6-87d9-879e91cbb27b/MTN - Q2 2022.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\e88516d4-d132-42b6-87d9-879e91cbb27b\MTN - Q2 2022.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/e8ddf037-347e-462f-9b6b-7efb8cc6c385/20160930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\e8ddf037-347e-462f-9b6b-7efb8cc6c385\20160930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/ec01e32c-7b1f-4f94-8d41-2dbe2492e16f/Financial statements 31-03-2019 - Arabic.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\ec01e32c-7b1f-4f94-8d41-2dbe2492e16f\Financial statements 31-03-2019 - Arabic.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/f23cd502-03e0-4d08-8786-ddf4dd481cd9/20080930.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\f23cd502-03e0-4d08-8786-ddf4dd481cd9\20080930.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Files/MyMtn/MTN_services.pdf
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Files\MyMtn\MTN_services.pdf
+Content Type: application/pdf
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/0c3ec970-2211-4b6b-b52c-7fc87626a215/Latakia.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\0c3ec970-2211-4b6b-b52c-7fc87626a215\Latakia.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/0d59b6e9-dd7c-4177-9fc1-5778422a3541/Homs.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\0d59b6e9-dd7c-4177-9fc1-5778422a3541\Homs.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/0e79161d-1099-47bf-b0ae-e9e7cef83e2d/PRL - JOBex 2.JPG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\0e79161d-1099-47bf-b0ae-e9e7cef83e2d\PRL - JOBex 2.JPG
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/1222226b-eb92-4f53-8a08-fb086f2f6329/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\1222226b-eb92-4f53-8a08-fb086f2f6329\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/138f20e9-92aa-412a-8388-46b938cb8ade/Sulaimaneah.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\138f20e9-92aa-412a-8388-46b938cb8ade\Sulaimaneah.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/18ee5712-6ad0-4e30-b0f2-08b4cce1863e/1pixcel.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\18ee5712-6ad0-4e30-b0f2-08b4cce1863e\1pixcel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/2085afc8-41ee-461d-9693-e3e93ef15c32/IMG_7625.JPG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\2085afc8-41ee-461d-9693-e3e93ef15c32\IMG_7625.JPG
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/231aec49-a491-42ee-adea-672c7420042c/ga-announcment--colored.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\231aec49-a491-42ee-adea-672c7420042c\ga-announcment--colored.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/244fb2c4-585b-472c-b1a3-af127e4e69cf/radio app.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\244fb2c4-585b-472c-b1a3-af127e4e69cf\radio app.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/2a6890fa-e465-4d99-821b-9d17f5f1d7ff/CSR - MTN Futsal Championship-Thumbnail.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\2a6890fa-e465-4d99-821b-9d17f5f1d7ff\CSR - MTN Futsal Championship-Thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/3102faea-e59c-453c-8dc6-bd2ff783460e/radio app.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\3102faea-e59c-453c-8dc6-bd2ff783460e\radio app.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/330ecb42-d41e-4161-921b-7e7d82e55114/MTNTV.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\330ecb42-d41e-4161-921b-7e7d82e55114\MTNTV.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/38be7f28-1b8e-4aff-99ee-de991bd2af77/Digital USSD web.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\38be7f28-1b8e-4aff-99ee-de991bd2af77\Digital USSD web.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/3b2568ed-5f77-4fe0-985e-3e7f79f2cae9/CSR - Celebrate the Syrian Arab Student Days.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\3b2568ed-5f77-4fe0-985e-3e7f79f2cae9\CSR - Celebrate the Syrian Arab Student Days.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/3c21b46d-6eba-4862-8b4b-18d2a8e78b40/Jaberi.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\3c21b46d-6eba-4862-8b4b-18d2a8e78b40\Jaberi.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/3ec2e2ed-a39e-4143-a9f2-5ab195681da6/checks-distribution.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\3ec2e2ed-a39e-4143-a9f2-5ab195681da6\checks-distribution.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/3ee1b6c9-6fe4-45c0-8e61-4fd7920a90c5/ICT3.JPG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\3ee1b6c9-6fe4-45c0-8e61-4fd7920a90c5\ICT3.JPG
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/40e2a083-a008-420b-9e0e-bfd32c0176b9/Hasakeh.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\40e2a083-a008-420b-9e0e-bfd32c0176b9\Hasakeh.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/42868040-c94f-421f-b200-3184dadeff0f/MTN Kiosk web.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\42868040-c94f-421f-b200-3184dadeff0f\MTN Kiosk web.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/473c6cc3-39d5-4d54-becc-008412e485d4/MTNSY 493 - Ramadan Competition - Facebook Post - 16 May, 2018.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\473c6cc3-39d5-4d54-becc-008412e485d4\MTNSY 493 - Ramadan Competition - Facebook Post - 16 May, 2018.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/54c59622-6574-4a73-a81a-e11571e66650/web radio.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\54c59622-6574-4a73-a81a-e11571e66650\web radio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/554d494a-a42b-41c0-bb59-ec51e4a8297a/CSR - Celebration Event of the Arab Chemist Day Thumbs.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\554d494a-a42b-41c0-bb59-ec51e4a8297a\CSR - Celebration Event of the Arab Chemist Day Thumbs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/56c23c42-49f8-437e-af87-a961e5498aa0/Digital USSD App.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\56c23c42-49f8-437e-af87-a961e5498aa0\Digital USSD App.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/5d941914-faec-42ed-be48-4e8936e5352d/Al Bassel.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\5d941914-faec-42ed-be48-4e8936e5352d\Al Bassel.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/5da3063d-04c6-4a1d-b4dc-e7793f01d398/RBT.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\5da3063d-04c6-4a1d-b4dc-e7793f01d398\RBT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/6127b950-f680-4a92-adb0-ce67e44fefc5/PRL - JOBex.JPG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\6127b950-f680-4a92-adb0-ce67e44fefc5\PRL - JOBex.JPG
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/61f92819-005d-41ef-81c4-027e4d22c4a0/pic1.PNG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\61f92819-005d-41ef-81c4-027e4d22c4a0\pic1.PNG
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/67c9bbef-25a0-4908-96ca-d7ce352a2b19/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\67c9bbef-25a0-4908-96ca-d7ce352a2b19\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/6c5bb053-79dd-49e3-a860-afb24261fe44/MTN Kiosk web.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\6c5bb053-79dd-49e3-a860-afb24261fe44\MTN Kiosk web.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/6d34a6a3-e813-4ab5-b290-d48352d810e7/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\6d34a6a3-e813-4ab5-b290-d48352d810e7\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/6f898ec9-fdaf-4804-9522-0f6bd2959772/MyMTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\6f898ec9-fdaf-4804-9522-0f6bd2959772\MyMTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/742d9a9b-d334-4d75-ad61-42208b0e75ec/CSR - 21Days of Y'ello care - Thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\742d9a9b-d334-4d75-ad61-42208b0e75ec\CSR - 21Days of Y'ello care - Thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/74a3e6a6-caeb-42d1-aeb4-e6a4ac674089/CSR - Startup Weekend thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\74a3e6a6-caeb-42d1-aeb4-e6a4ac674089\CSR - Startup Weekend thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/75597c62-0233-441b-973c-fa192e1d8942/website banner-Recovered.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\75597c62-0233-441b-973c-fa192e1d8942\website banner-Recovered.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/773f57da-cc91-49b6-8c76-06c6fa32c6c7/HSPA.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\773f57da-cc91-49b6-8c76-06c6fa32c6c7\HSPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/77ff68af-2ec9-4d3e-9b35-46dfe4a8511c/Hadara.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\77ff68af-2ec9-4d3e-9b35-46dfe4a8511c\Hadara.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/7862d70b-6a46-42b5-b4d3-f5f7618fbd38/El Millionaire (1).png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\7862d70b-6a46-42b5-b4d3-f5f7618fbd38\El Millionaire (1).png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/79bfdced-f040-469c-8afc-dd7c610e1850/PRL - TEDxArabInternationalUniversity.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\79bfdced-f040-469c-8afc-dd7c610e1850\PRL - TEDxArabInternationalUniversity.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/7b7857eb-fa6c-45f8-926f-071ba5bb58a3/1pixcel.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\7b7857eb-fa6c-45f8-926f-071ba5bb58a3\1pixcel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/7cb113d6-70e2-469a-98c0-4c6f2aac0374/IMG_7982.JPG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\7cb113d6-70e2-469a-98c0-4c6f2aac0374\IMG_7982.JPG
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/8276e437-8de0-40d7-821a-633ae363e0a2/mtn Mazzeh center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\8276e437-8de0-40d7-821a-633ae363e0a2\mtn Mazzeh center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/880a0ccf-df2f-4b05-bee4-80c986393a67/MTN Mohafaza Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\880a0ccf-df2f-4b05-bee4-80c986393a67\MTN Mohafaza Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/8e2dd3f2-698a-4cef-9da6-a7f807bd1f25/Zeraa.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\8e2dd3f2-698a-4cef-9da6-a7f807bd1f25\Zeraa.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/921d494d-b6a8-4855-8247-ba9d96204bd2/CSR - TEDxArabInternationalUniversity thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\921d494d-b6a8-4855-8247-ba9d96204bd2\CSR - TEDxArabInternationalUniversity thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/936ef03a-bea6-47f2-acc1-e719bf026be0/pic4.PNG
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\936ef03a-bea6-47f2-acc1-e719bf026be0\pic4.PNG
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/98c24ab6-9bd6-4c45-92d7-89e2097b2585/MTN Pakistan Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\98c24ab6-9bd6-4c45-92d7-89e2097b2585\MTN Pakistan Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/9a104f79-f783-4aa6-9339-ae2cf61954a3/APP banner-Recovered.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\9a104f79-f783-4aa6-9339-ae2cf61954a3\APP banner-Recovered.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/a144daf4-e1f7-47d7-842f-ece2ab24fea5/PIC.1.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\a144daf4-e1f7-47d7-842f-ece2ab24fea5\PIC.1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/a5755bda-0d66-4f5e-9dcf-a10c7f765344/Captain linkedin.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\a5755bda-0d66-4f5e-9dcf-a10c7f765344\Captain linkedin.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/a7cba6c1-7b3f-42b1-9159-89b25dd17850/tttttt.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\a7cba6c1-7b3f-42b1-9159-89b25dd17850\tttttt.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b04556c9-aa21-4445-84c2-be572fbbc4fb/MTN Mashroua Demmar Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b04556c9-aa21-4445-84c2-be572fbbc4fb\MTN Mashroua Demmar Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b05f4f4b-7418-4dca-ad33-62f6a5ace3b9/Cash_Mobile.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b05f4f4b-7418-4dca-ad33-62f6a5ace3b9\Cash_Mobile.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b45710fa-6931-4243-86fa-0a1eb2309eda/Sham Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b45710fa-6931-4243-86fa-0a1eb2309eda\Sham Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b541df44-14fd-465e-ae49-842035e2ee74/Hama.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b541df44-14fd-465e-ae49-842035e2ee74\Hama.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b5420375-d551-4b71-8f7a-a6c5d310cbf2/1pixcel.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b5420375-d551-4b71-8f7a-a6c5d310cbf2\1pixcel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b66cb074-d936-406d-bda7-e55e2efa0c23/1pixcel.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b66cb074-d936-406d-bda7-e55e2efa0c23\1pixcel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b8b54bc9-2902-474b-9776-7e3275e561d7/CSR - Participate in the Syrian - Thumbnails.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b8b54bc9-2902-474b-9776-7e3275e561d7\CSR - Participate in the Syrian - Thumbnails.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b92a0afd-2dd9-4e58-8f29-8aa426303f99/MTN AL Thawrah Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b92a0afd-2dd9-4e58-8f29-8aa426303f99\MTN AL Thawrah Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/b94b2ec2-9e48-4a8b-8bc3-b2d027b8ef13/CSR - Participate in the Syrian-Thumbs.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\b94b2ec2-9e48-4a8b-8bc3-b2d027b8ef13\CSR - Participate in the Syrian-Thumbs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/ba3c166f-a810-4b4a-8a2e-7224597446b5/El Millionaire (2).png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\ba3c166f-a810-4b4a-8a2e-7224597446b5\El Millionaire (2).png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/bb4b06e4-0985-4dc3-95c1-544c2acf1cf4/IMG-20220815-WA0031.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\bb4b06e4-0985-4dc3-95c1-544c2acf1cf4\IMG-20220815-WA0031.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/bd37d237-f826-4c41-94b3-2e39a4b3586d/CSR - JOBex Thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\bd37d237-f826-4c41-94b3-2e39a4b3586d\CSR - JOBex Thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/bf963aa6-f028-4681-8396-6520420fb856/CSR - The Syrian National Collegiate Programming Contest thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\bf963aa6-f028-4681-8396-6520420fb856\CSR - The Syrian National Collegiate Programming Contest thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/c6264de6-3dcb-4e22-9c49-676d8b95e4b7/MTN Jaramana Center.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\c6264de6-3dcb-4e22-9c49-676d8b95e4b7\MTN Jaramana Center.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/c7d39eb2-ada1-4e9b-b7cc-87fab48a6719/MTN Kiosk.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\c7d39eb2-ada1-4e9b-b7cc-87fab48a6719\MTN Kiosk.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/c8a23305-a524-4882-b6fe-aab5e809c048/1pixcel.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\c8a23305-a524-4882-b6fe-aab5e809c048\1pixcel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/ca03bc04-6278-4141-acdc-93b504f217c5/CSR - TEDxYouth@Jahez Conference Thumb.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\ca03bc04-6278-4141-acdc-93b504f217c5\CSR - TEDxYouth@Jahez Conference Thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/cdfee34a-6cc2-4685-9595-6527577181ab/Valentine.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\cdfee34a-6cc2-4685-9595-6527577181ab\Valentine.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/d7874619-bcd7-41ca-92bf-b14a2ca6beda/yellow_new.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\d7874619-bcd7-41ca-92bf-b14a2ca6beda\yellow_new.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/db2fef9b-ec0c-498b-85e2-5965b959de61/RBT.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\db2fef9b-ec0c-498b-85e2-5965b959de61\RBT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Default.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Default.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/e59dbd2d-fe91-413f-89e4-e04cf00cf79b/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\e59dbd2d-fe91-413f-89e4-e04cf00cf79b\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/e7d85980-de19-4d93-ba5e-5fbc94f53e6a/CSR- I Love Damascus Thumbs.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\e7d85980-de19-4d93-ba5e-5fbc94f53e6a\CSR- I Love Damascus Thumbs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/e9b699e2-3769-49eb-b132-465a3697e72b/Tartous.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\e9b699e2-3769-49eb-b132-465a3697e72b\Tartous.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/eb79d5be-6891-4b85-9d2f-a8d3cdb00ec8/CSR - Musical Concert Syria Peace Upon You.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\eb79d5be-6891-4b85-9d2f-a8d3cdb00ec8\CSR - Musical Concert Syria Peace Upon You.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/f24fa754-aaa4-415f-89f0-a9dc89e89a43/website banner-Recovered.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\f24fa754-aaa4-415f-89f0-a9dc89e89a43\website banner-Recovered.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/f274dcec-e7ba-4561-9d63-6f373ac106eb/CSR - Celebrate the Syrian Arab Student Days Thumbs.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\f274dcec-e7ba-4561-9d63-6f373ac106eb\CSR - Celebrate the Syrian Arab Student Days Thumbs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/f6d9e58f-4ec5-4ebd-aa19-41ef306aeae9/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\f6d9e58f-4ec5-4ebd-aa19-41ef306aeae9\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/ffa2090a-c18d-4fe5-bd30-fa16a5e28860/MTN.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\ffa2090a-c18d-4fe5-bd30-fa16a5e28860\MTN.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/043c101f-8192-44bf-84c5-e626ae9eddb8/post.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\043c101f-8192-44bf-84c5-e626ae9eddb8\post.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/19e53202-2e05-440e-b2c2-ef013f51246d/AIU LOGO New.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\19e53202-2e05-440e-b2c2-ef013f51246d\AIU LOGO New.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/32af5784-4a91-4337-91b0-01d8322eab93/shabab.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\32af5784-4a91-4337-91b0-01d8322eab93\shabab.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/39e1f129-b7c5-435e-af0e-31d7ff3fb074/2.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\39e1f129-b7c5-435e-af0e-31d7ff3fb074\2.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/5018ea5c-058f-44ea-a7ee-76a8c13a82a6/Pre Ar.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\5018ea5c-058f-44ea-a7ee-76a8c13a82a6\Pre Ar.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/6c39f016-bc52-4bb1-955c-4807e5ec3bb2/MTNTV AR.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\6c39f016-bc52-4bb1-955c-4807e5ec3bb2\MTNTV AR.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/73c4dc02-3bd4-49ca-9295-028533bc29a1/Tekram AR.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\73c4dc02-3bd4-49ca-9295-028533bc29a1\Tekram AR.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/7bc2ea63-93e0-4f68-8c0c-ded0519094f9/1.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\7bc2ea63-93e0-4f68-8c0c-ded0519094f9\1.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/c35c7b89-635c-4a9e-a006-2c7ea293520c/MTN Brochure Direct PDF.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\c35c7b89-635c-4a9e-a006-2c7ea293520c\MTN Brochure Direct PDF.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/cc3a5259-0784-49a0-95ae-9c2515d111b5/Pre AR.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\cc3a5259-0784-49a0-95ae-9c2515d111b5\Pre AR.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/d1070ecc-3a80-479b-bef3-f0881373d87c/post AR.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\d1070ecc-3a80-479b-bef3-f0881373d87c\post AR.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/df9bbc03-cf1f-4899-a7d4-787316623d50/Post Ar.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\df9bbc03-cf1f-4899-a7d4-787316623d50\Post Ar.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/HtmlEditor/e900358e-6cc0-4f8d-82b9-82e9b3120cf0/pre.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\HtmlEditor\e900358e-6cc0-4f8d-82b9-82e9b3120cf0\pre.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/MtnApplications_GooglePlay.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\MtnApplications_GooglePlay.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Product/195/MTNSY 339 - Website Imagery - LTE - 14 November, 2017.png
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Product\195\MTNSY 339 - Website Imagery - LTE - 14 November, 2017.png
+Content Type: image/png
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/10348/MTNSY 339 - Website Images Services - Bulk SMS - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\10348\MTNSY 339 - Website Images Services - Bulk SMS - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/10349/MTNSY 339 - Website Images Services - Group Itemized Bill - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\10349\MTNSY 339 - Website Images Services - Group Itemized Bill - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/10350/MTNSY 339 - Website Images Services - Wireless Solutions - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\10350\MTNSY 339 - Website Images Services - Wireless Solutions - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/10351/MTNSY 339 - Website Images Services - Direct Debit - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\10351\MTNSY 339 - Website Images Services - Direct Debit - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/10353/MTNSY 339 - Website Images Services - CUG - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\10353\MTNSY 339 - Website Images Services - CUG - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/107/MTNSY 339 - Website Images Services - Leased Lines - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\107\MTNSY 339 - Website Images Services - Leased Lines - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/34/rdctr_135005192485.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\34\rdctr_135005192485.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/35/rdctr_135005364429.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\35\rdctr_135005364429.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/Sites/CMS/Images/Service/98/MTNSY 339 - Website Images Services - Integrated Online - 3 May, 2017.jpg
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\Sites\CMS\Images\Service\98\MTNSY 339 - Website Images Services - Integrated Online - 3 May, 2017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mtnsyr.com/social-bundles
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\social-bundles.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/social-responsibility-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\social-responsibility-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/speed-postpaid-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\speed-postpaid-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/sports-description
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\sports-description.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/terms-and-conditions
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/tiered-bundles
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\tiered-bundles.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/tv
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\tv.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/user/GetForgotPassword
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\user\GetForgotPassword.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/user/GetRegister
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\user\GetRegister.html
+Content Type: text/html
+
+Uri: https://www.mtnsyr.com/wireless-solutions
+File Name: D:\Downloaded Web Sites\www.mtnsyr.com\wireless-solutions.html
+Content Type: text/html
+
